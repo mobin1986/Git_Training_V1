@@ -4,3 +4,9 @@ this is ssh test
 testinf ssh from github
 this is feature tes
 this record added from consome in the main
+this text is added from the local repo 
+this is  a sample text file for git
+this is the ssh test 
+testing ssh from GitHub
+this is a feature test
+New line added from main branch
